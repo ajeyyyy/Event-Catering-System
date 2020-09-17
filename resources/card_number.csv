@@ -1,0 +1,5 @@
+,1234,1234,Card number must not be empty
+test,1234,1234,Credit card number must be a number
+123456789012345,1234,1234,Credit card number must be 16 digits
+12345678901234598,1234,1234,Credit card number must be 16 digits
+1234567890123459,1234,1234,

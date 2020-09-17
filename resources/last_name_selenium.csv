@@ -1,0 +1,5 @@
+8976765434,adityabhok,Test123!,Awnwnsn,,test@gmail.com,6989898898,76014,Summit Avenue,5642,TX,Caterer Manager,Arlington,Last name must not be empty
+8976765434,adityabhok,Test123!,Awnwnsn,bhoghte,test@gmail.com,6989898898,76014,Summit Avenue,5642,TX,Caterer Manager,Arlington,Last name must start with a capital letter
+8976765434,adityabhok,Test123!,Awnwnsn,Bh,test@gmail.com,6989898898,76014,Summit Avenue,5642,TX,Caterer Manager,Arlington,Last name length must be >2 and <30
+8976765434,adityabhok,Test123!,Awnwnsn,Bhoghte1,test@gmail.com,6989898898,76014,Summit Avenue,5642,TX,Caterer Manager,Arlington,Last name cannot contains number
+8976765434,adityabhok,Test123!,Awnwnsn,Bhoghte@,test@gmail.com,6989898898,76014,Summit Avenue,5642,TX,Caterer Manager,Arlington,Last name cannot contain special characters

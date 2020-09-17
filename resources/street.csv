@@ -1,0 +1,4 @@
+8976765434,adityabhok,Test123!,Adit,Bhoghte,test@gmail.com,6989898980,76014,Summit Avenue,,TX,staff,Arlington,Street must not be empty
+8976765434,adityabhok,Test123!,Adit,Bhoghte,test@gmail.com,6989898980,76014,Summit Avenue,5b42,TX,staff,Arlington,Street number must be numeric
+8976765434,adityabhok,Test123!,Adit,Bhoghte,test@gmail.com,6989898980,76014,Summit Avenue,5648882,TX,staff,Arlington,Street number length must be >0 and <7
+8976765434,adityabhok,Test123!,Adit,Bhoghte,test@gmail.com,6989898980,76014,Summit Avenue,5642,TX,staff,Arlington,

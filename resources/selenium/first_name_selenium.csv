@@ -1,0 +1,5 @@
+1,8976765434,adityabhok,Test123!,,Bhoghte,test@gmail.com,6989898898,76014,Summit Avenue,5642,TX,Caterer Manager,Arlington,First name must not be empty
+2,8976765434,adityabhok,Test123!,adity,Bhoghte,test@gmail.com,6989898898,76014,Summit Avenue,5642,TX,Caterer Manager,Arlington,First name must start with a capital letter
+3,8976765434,adityabhok,Test123!,Ad,Bhoghte,test@gmail.com,6989898898,76014,Summit Avenue,5642,TX,Caterer Manager,Arlington,First name length must be >2 and <30
+4,8976765434,adityabhok,Test123!,1234,Bhoghte,test@gmail.com,6989898898,76014,Summit Avenue,5642,TX,Caterer Manager,Arlington,First name cannot contains number
+5,8976765434,adityabhok,Test123!,A@wnwnsn,Bhoghte,test@gmail.com,6989898898,76014,Summit Avenue,5642,TX,Caterer Manager,Arlington,First name cannot contain special characters

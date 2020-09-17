@@ -1,0 +1,6 @@
+8976765434,adityabhok,Test123!,Adit,Bhoghte,test@gmail.com,6989898980,,Summit Avenue,5642,TX,staff,Arlington,Zipcode must not be empty
+8976765434,adityabhok,Test123!,Adit,Bhoghte,test@gmail.com,6989898980,76b14,Summit Avenue,5642,TX,staff,Arlington,Zipcode must be numeric
+8976765434,adityabhok,Test123!,Adit,Bhoghte,test@gmail.com,6989898980,76014,Summit Avenue,5642,TX,staff,Arlington,
+8976765434,adityabhok,Test123!,Adit,Bhoghte,test@gmail.com,6989898980,7601,Summit Avenue,5642,TX,staff,Arlington,Zipcode must have a length of 5
+8976765434,adityabhok,Test123!,Adit,Bhoghte,test@gmail.com,6989898980,760146,Summit Avenue,5642,TX,staff,Arlington,Zipcode must have a length of 5
+8976765434,adityabhok,Test123!,Adit,Bhoghte,test@gmail.com,6989898980,76014,Summit Avenue,513,TX,staff,Arlington,

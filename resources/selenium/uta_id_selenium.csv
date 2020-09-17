@@ -1,0 +1,4 @@
+1,,adityabhok,Test123!,Adit,Bhoghte,test@gmail.com,6989898980,76014,Summit Avenue,5642,TX,Caterer Manager,Arlington,UTA Id can not be empty
+2,1001677b63,adityabhok,Test123!,Adit,Bhoghte,test@gmail.com,6989898980,76014,Summit Avenue,5642,TX,Caterer Manager,Arlington,UTA Id must be numeric
+3,10016777630,adityabhok,Test123!,Adit,Bhoghte,test@gmail.com,6989898980,76014,Summit Avenue,5642,TX,Caterer Manager,Arlington,UTA Id must have a length of 10
+4,1288828289,adityabhok,Test123!,Adit,Bhoghte,test@gmail.com,6989898980,76014,Summit Avenue,5642,TX,Caterer Manager,Arlington,Only one Uta Id can exist in the system

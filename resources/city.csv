@@ -1,0 +1,7 @@
+8976765434,adityabhok,Test123!,Adit,Bhoghte,test@gmail.com,6989898980,76014,Summit Avenue,5642,TX,staff,,City must not be empty
+8976765434,adityabhok,Test123!,Adit,Bhoghte,test@gmail.com,6989898980,76014,Summit Avenue,5642,TX,staff,arlington,City must start with a capital letter
+8976765434,adityabhok,Test123!,Adit,Bhoghte,test@gmail.com,6989898980,76014,Summit Avenue,5642,TX,staff,Ar,City length must be >2 and <30
+8976765434,adityabhok,Test123!,Adit,Bhoghte,test@gmail.com,6989898980,76014,Summit Avenue,5642,TX,staff,Annnnnnnnnnnnnnnnnnnnnnnnnnnnn,City length must be >2 and <30
+8976765434,adityabhok,Test123!,Adit,Bhoghte,test@gmail.com,6989898980,76014,Summit Avenue,5642,TX,staff,77,City cannot be a number
+8976765434,adityabhok,Test123!,Adit,Bhoghte,test@gmail.com,6989898980,76014,Summit Avenue,5642,TX,staff,Arlin@ton,City cannot contain special characters
+8976765434,adityabhok,Test123!,Adit,Bhoghte,test@gmail.com,6989898980,76014,Summit Avenue,5642,TX,staff,Arlington,

@@ -1,0 +1,6 @@
+1234567891234560,,1234,Credit card exp date must not be empty
+1234567891234560,dddd,1234,Credit card exp date must be a number
+1234567891234560,123,1234,Credit card exp date must be 4 digits
+1234567891234560,12345,1234,Credit card exp date must be 4 digits
+1234567891234560,0320,1234,Credit card exp date must be a future date
+1234567891234560,0420,1234,

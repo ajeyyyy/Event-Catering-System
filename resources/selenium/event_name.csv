@@ -1,0 +1,4 @@
+6,10,krishi,2020-08-28,13:00,2,Maverick,50,,American,breakfast,formal,alcohol,music,saved,null,Event Name must not be empty
+7,11,krishi,2020-08-28,13:01,3,Maverick,51,hackathon,American,breakfast,formal,alcohol,music,saved,null,Event name must start with a capital letter
+8,12,krishi,2020-08-28,13:02,4,Maverick,52,Ha,American,breakfast,formal,alcohol,music,saved,null,Event name length must be >2 and <30
+9,14,krishi,2020-04-28,13:04,6,Maverick,54,Hackathon,American,breakfast,formal,alcohol,music,saved,null,

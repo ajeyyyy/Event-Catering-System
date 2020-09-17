@@ -1,0 +1,4 @@
+1,8976765434,adityabhok,Test123!,Aditya,Bhoghte,test@gmail.com,6989898980,76014,Summit Avenue,5642,,Caterer Manager,Arlington,State must not be empty
+2,8976765434,adityabhok,Test123!,Aditya,Bhoghte,test@gmail.com,6989898980,76014,Summit Avenue,5642,T7,Caterer Manager,Arlington,State must be non-numeric
+3,8976765434,adityabhok,Test123!,Aditya,Bhoghte,test@gmail.com,6989898980,76014,Summit Avenue,5642,T,Caterer Manager,Arlington,State must be a 2 letter abbreviation
+4,8976765434,adityabhok,Test123!,Aditya,Bhoghte,test@gmail.com,6989898980,76014,Summit Avenue,5642,AA,Caterer Manager,Arlington,State abbreviation not found

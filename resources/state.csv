@@ -1,0 +1,6 @@
+8976765434,adityabhok,Test123!,Adit,Bhoghte,test@gmail.com,6989898980,76014,Summit Avenue,5642,,staff,Arlington,State must not be empty
+8976765434,adityabhok,Test123!,Adit,Bhoghte,test@gmail.com,6989898980,76014,Summit Avenue,5642,T7,staff,Arlington,State must be non-numeric
+8976765434,adityabhok,Test123!,Adit,Bhoghte,test@gmail.com,6989898980,76014,Summit Avenue,5642,T,staff,Arlington,State must be a 2 letter abbreviation
+8976765434,adityabhok,Test123!,Adit,Bhoghte,test@gmail.com,6989898980,76014,Summit Avenue,5642,TXX,staff,Arlington,State must be a 2 letter abbreviation
+8976765434,adityabhok,Test123!,Adit,Bhoghte,test@gmail.com,6989898980,76014,Summit Avenue,5642,AA,staff,Arlington,State abbreviation not found
+8976765434,adityabhok,Test123!,Adit,Bhoghte,test@gmail.com,6989898980,76014,Summit Avenue,5642,TX,staff,Arlington,

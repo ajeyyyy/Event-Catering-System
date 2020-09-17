@@ -1,0 +1,5 @@
+10,krishi,2020-04-05,13:00,2,Maverick,,Hackathon,American,breakfast,formal,alcohol,music,saved,null,Estimated attendees must not be empty
+11,krishi,2020-03-30,7:00,3,Maverick,fifty,Hackathon,American,breakfast,formal,alcohol,music,saved,null,Estimated attendees must be a number
+12,krishi,2020-03-30,13:02,4,Maverick,0,Hackathon,American,breakfast,formal,alcohol,music,saved,null,Estimated attendees must be greater than 0
+13,krishi,2020-02-08,13:03,5,Maverick,101,Hackathon,American,breakfast,formal,alcohol,music,saved,null,Estimated attendees must be <=100
+14,krishi,2020-02-09,13:04,6,Maverick,50,Hackathon,American,breakfast,formal,alcohol,music,saved,null,
